@@ -1,0 +1,7 @@
+C:\Users\k.b.8anos\source\repos\NewsletterApp\NewsletterApp\bin\Debug\NewsletterApp.exe.config
+C:\Users\k.b.8anos\source\repos\NewsletterApp\NewsletterApp\bin\Debug\NewsletterApp.exe
+C:\Users\k.b.8anos\source\repos\NewsletterApp\NewsletterApp\bin\Debug\NewsletterApp.pdb
+C:\Users\k.b.8anos\source\repos\NewsletterApp\NewsletterApp\obj\Debug\NewsletterApp.csprojAssemblyReference.cache
+C:\Users\k.b.8anos\source\repos\NewsletterApp\NewsletterApp\obj\Debug\NewsletterApp.csproj.CoreCompileInputs.cache
+C:\Users\k.b.8anos\source\repos\NewsletterApp\NewsletterApp\obj\Debug\NewsletterApp.exe
+C:\Users\k.b.8anos\source\repos\NewsletterApp\NewsletterApp\obj\Debug\NewsletterApp.pdb
